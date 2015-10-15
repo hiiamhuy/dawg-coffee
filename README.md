@@ -4,6 +4,7 @@ This folder contains your submission for the [responsive challenge](http://facul
 
 ##### 1. What is the URL of this site, as hosted on your student webserver (i.e., students.washington.edu/<code>{uw-new-id}</code>/info343/<code>{project-name}</code>) #####
 > Answer goes here!
+https://github.com/hiiamhuy/dawg-coffee.git
 http://students.washington.edu/hiiamhuy/info343/dawg-coffee/
 ##### 2. Did you receive any help from others (classmates, etc)? If so, please list who. #####
 > Answer goes here!
